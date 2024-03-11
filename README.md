@@ -1,4 +1,4 @@
-# Library-Management-System
+
 # Library Management System
 
 ## 1. Introduction
@@ -51,3 +51,50 @@ MVC (Model-View-Controller) architecture is a design pattern widely used in soft
 8. **Community Support and Standardization:**
    - **Feature:** MVC is a widely adopted design pattern with extensive community support.
    - **Advantage:** Developers can leverage established best practices, libraries, and frameworks that adhere to MVC principles, promoting consistency and standardization in application development.
+   - 
+![image](https://github.com/Shabanakhan-2412/Library-Management-System/assets/162796897/dffd2513-9315-4af0-a928-53429bb995e5)
+
+
+## 2. MVC Architecture Overview
+
+### 2.1 Model
+The Model represents the data and business logic of the application. It interacts with the database and manages the application's state.
+
+### 2.2 View
+The View is responsible for presenting the data to the user and receiving user input. In this console-based system, it displays information and receives commands from the user.
+
+### 2.3 Controller
+The Controller acts as an intermediary between the Model and View. It processes user input, updates the Model, and refreshes the View accordingly.
+
+## 3. Technologies Used
+
+### 3.1 Java
+The system is implemented using the Java programming language for its simplicity and platform independence.
+
+### 3.2 JDBC
+Java Database Connectivity (JDBC) is employed for connecting the Java application with the SQLite database.
+
+### 3.3 SQL
+SQL, or Structured Query Language, is a programming language designed for managing and manipulating relational databases.
+
+## 4. Database Design
+
+### 4.1 Tables
+- **Books** (BookID, BookName, Author, Price)
+- **Library** (LibraryID, Name, Address, Pincode)
+
+## 5. Setup and Configuration
+
+### 5.1 Prerequisites
+- Java Development Kit (JDK)
+- SQL Database
+
+### 5.2 Database Setup
+- Execute SQL script to create tables and establish initial data.
+
+### 5.3 Project Setup
+- Download and compile the Java source files.
+
+  
+
+
