@@ -51,7 +51,7 @@ MVC (Model-View-Controller) architecture is a design pattern widely used in soft
 8. **Community Support and Standardization:**
    - **Feature:** MVC is a widely adopted design pattern with extensive community support.
    - **Advantage:** Developers can leverage established best practices, libraries, and frameworks that adhere to MVC principles, promoting consistency and standardization in application development.
-   - 
+    
 ![image](https://github.com/Shabanakhan-2412/Library-Management-System/assets/162796897/dffd2513-9315-4af0-a928-53429bb995e5)
 
 
@@ -96,5 +96,29 @@ SQL, or Structured Query Language, is a programming language designed for managi
 - Download and compile the Java source files.
 
   
+## 6. Code Implementation
+
+### 1. Insert Book
+
+![image](https://github.com/Shabanakhan-2412/Library-Management-System/assets/162796897/d044ddf0-d1ce-4ec2-9cbd-52bdc18ad94a)
+
+### 2. Remove Book
+
+![image](https://github.com/Shabanakhan-2412/Library-Management-System/assets/162796897/be3cb106-15c0-4e18-975e-2bf69866f39d)
+
+### 3.Update Book
+
+![image](https://github.com/Shabanakhan-2412/Library-Management-System/assets/162796897/78127c03-47b8-4472-a11f-b74c05fa5fde)
+
+### 4. Get Book
+
+![image](https://github.com/Shabanakhan-2412/Library-Management-System/assets/162796897/d34c9fd2-29e8-40b5-b3e2-8523e0bce7e8)
+
+
+### 5. Exit 
+
+![image](https://github.com/Shabanakhan-2412/Library-Management-System/assets/162796897/7093da4d-4102-4f3e-844e-23a70b460713)
+
+
 
 
